@@ -6,7 +6,7 @@ sources:
     schema: public
     tables:
       - name: categories
-      - name: produtos
+      - name: products
       - name: suppliers
       - name: employees
       - name: order_details
